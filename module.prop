@@ -1,0 +1,7 @@
+id=assistant_button_remap
+name=Assitant Button Remapper
+version=v1
+versionCode=1
+author=uotlaf
+description=Use the Assistant Button to everything!
+minMagisk=1500
